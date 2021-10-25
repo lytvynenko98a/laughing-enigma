@@ -6,7 +6,7 @@ using namespace std;
 
 int main()
 {
-    cout << "Hello world\n";
+    cout << "Hello Yura\n";
     //lytvynenko98a/laughing-enigma sdflkn
     int** M;
     int const SIZE = 5;
