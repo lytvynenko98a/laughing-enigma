@@ -6,8 +6,7 @@ using namespace std;
 
 int main()
 {
-    srand(time(NULL));
-
+    //lytvynenko98a/laughing-enigma sdflkn
     int** M;
     int const SIZE = 5;
     M = new int* [SIZE];
