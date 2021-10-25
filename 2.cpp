@@ -6,7 +6,6 @@ using namespace std;
 
 int main()
 {
-    srand(time(NULL));
 
     int** M;
     int const SIZE = 5;
